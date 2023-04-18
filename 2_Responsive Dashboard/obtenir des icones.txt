@@ -1,0 +1,33 @@
+============================================================
+1 : UNICONE - ICONSCOUT
+============================================================
+
+<link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+
+https://iconscout.com/unicons/explore/line
+
+
+
+============================================================
+2 : MATERIAL ICONE - GOOGLE ICONS
+============================================================
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp"/>
+
+https://fonts.google.com/icons?icon.style=Sharp&icon.set=Material+Icons
+
+
+
+============================================================
+3 : GOOGLE FONTS 
+============================================================
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap"); .........à coller dans la 1ère ligne du fichier CSS
+
+https://fonts.google.com/?icon.style=Sharp&icon.set=Material+Icons&icon.query=add
+
+
+
+============================================================
+4 : 
+============================================================
